@@ -1,16 +1,37 @@
-# flutter_login_animation
+## 🧪 Technologies
+
+This project was developed using the following technologies:
+
+- [Flutter](https://flutter.dev/)
+
+## 🔥 Preview
+
+## 🚀 Getting started
+
+Clone the project and access the folder
+
+```bash
+$ git clone https://github.com/C0bal/flutter-login-animation && cd flutter-login-animation
+```
+
+Follow the steps below
+
+```bash
+# Open the project
+$ Go to Android Studio
+
+# Run app
+$ Open project folder and run the application
+```
+
+## 💻 Project
 
 An app of login to increase my skills of animation in flutter.
 
-## Getting Started
+## 📝 License
 
-This project is a starting point for a Flutter application.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">Made by Rafael Menegon</p>
